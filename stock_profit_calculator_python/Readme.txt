@@ -1,6 +1,5 @@
 Submitted by: Rucha Apte
-SID: 011824371
-rucha.apte@sjsu.edu
+
 
 
 This python file has been provided for Windows with Python 3.6.5. 
