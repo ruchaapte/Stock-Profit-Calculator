@@ -1,5 +1,5 @@
 #Submitted by: Rucha Apte
-#SID: 011824371
+
 #This is a file to calculate stock profit for a particular symbol.
 #Prerequisites: Python3 should be installed
 
